@@ -1,16 +1,19 @@
 <div align="center">
 
 ```
-+----------------------------------------------------------+
-|                                                          |
-|    ___  ______   __  __ ___  _  _                        |
-|   / _ \|  _ \ \ / / / _` | \| |                         |
-|  | (_) | |_) \ V /  | (_| | |\  |                       |
-|   \__,_|_.__/ |_|    \__,_|_| \_|                       |
-|                                                          |
-|          Building AI that works for everyone.           |
-+----------------------------------------------------------+
+╔═════════════════════════════════════════════════════╗
+║                                                     ║
+║     █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗      ║
+║    ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║      ║
+║    ███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║      ║
+║    ██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║      ║
+║    ██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║      ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝      ║
+║                                                     ║
+║         Building AI that works for everyone.        ║
+╚═════════════════════════════════════════════════════╝
 ```
+
 
 ### MCA Student · AI/ML Engineer · Backend Architect
 **Birla Global University, Bhubaneswar** · Batch 2025–27 · GPA: 8.18
@@ -43,29 +46,33 @@ My work focuses on:
 ## 🗺️ Project Ecosystem
 
 ```
-                        +----------------------------------+
-                        |            PAT AI               |
-                        |     Multi-AI Build Platform     |
-                        |      (Long-term Vision)         |
-                        +-------------+--------------------+
-                                      |
-              +-----------------------+-----------------------+
-              |                       |                       |
-              v                       v                       v
-   +------------------+  +------------------+  +------------------+
-   |   AI Defender    |  |   Darshan-3      |  |  PS Predictor    |
-   |  Security Plat.  |  |  Edge Vision AI  |  |  Process Failure |
-   |  [In Progress]   |  |  [Active]        |  |  Prediction      |
-   +------------------+  +------------------+  +------------------+
-              |                       |
-              |              Research Thread:
-              |           Domain-Specific Knowledge
-              |           Distillation for ~3B models
-              |           on Low-End Hardware
+                   +------------------------------------+
+                   |            PAT AI                  |
+                   |  IND * Indian AI Innovation Group  |
+                   |       (Long-term Vision)           |
+                   +-------+----------+-----------------+
+                           |          |
+              +------------+          +----------------+
+              |                                        |
+              v                                        v
+   +------------------+                    +------------------+
+   |     PAT_7        |                    |   AI Defender    |
+   |  Multi-AI Core   |                    |  Security Plat.  |
+   |  Build Platform  |                    |  [In Progress]   |
+   +------------------+                    +------------------+
               |
+              v
+   +------------------+
+   |    Darshan-3     |
+   |  Edge Vision AI  |
+   |  [Active]        |
+   +------------------+
+
+
+   Standalone Projects:
    +------------------------------------------+
-   |           Deployed Projects               |
-   |  PTJP (Android) . CivicConnect (Vercel)  |
+   |  PS Predictor  *  PTJP (Android)          |
+   |  CivicConnect (Vercel)                    |
    |  Image Caption Generator (GitHub)         |
    +------------------------------------------+
 ```
@@ -74,12 +81,16 @@ My work focuses on:
 
 ## 🔥 Active Projects
 
-### 🧠 PAT AI — Multi-AI Platform
+### 🧠 PAT AI — Multi-AI Platform(Currently Under Work)
 
-A multi-model AI platform focused on integrating AI-assisted workflows, project systems, and scalable backend architecture.
+An Indian AI Innovation Group building a multi-model AI platform focused on integrating AI-assisted workflows, project systems, and scalable backend architecture.
 
 ```
-Features:
+Core Components:
+-------------------------------------------------------------
+  PAT_7         -->  Multi-AI core brain & build platform
+  AI Defender   -->  Security analysis platform
+  Darshan-3     -->  Edge vision AI for accessibility
 -------------------------------------------------------------
   * Multi-AI interaction workflows
   * Modular backend structure
@@ -94,7 +105,7 @@ Features:
 
 ---
 
-### 🛡️ AI Defender — Multi-Module Security Platform *(Private)*
+### 🛡️ AI Defender — Multi-Module Security Platform *(Private, under PAT AI)*
 > *Targeting individual developers & small teams*
 
 ```
@@ -117,7 +128,7 @@ Module Pipeline:
 
 ---
 
-### 👁️ Darshan-3 — Real-Time Vision for Visually Impaired
+### 👁️ Darshan-3 — Real-Time Vision for Visually Impaired *(under PAT AI)*
 > *On-device. Offline. Sub-100ms. No cloud.*
 
 ```
@@ -141,7 +152,7 @@ Hardware:  Raspberry Pi + Wearable Camera
 
 ---
 
-### ⚙️ PS Predictor — Process Failure Prediction Engine
+### ⚙️ PS Predictor — Process Failure Prediction Engine *(Standalone)*
 
 ```
   System Processes --> BufferRegistry (per-PID rolling windows)
@@ -162,7 +173,7 @@ Hardware:  Raspberry Pi + Wearable Camera
 
 ---
 
-### 🏙️ CivicConnect — Civic Engagement PWA
+### 🏙️ CivicConnect — Civic Engagement PWA *(Standalone)*
 
 **Multi-role Auth System:**
 ```
@@ -181,7 +192,7 @@ Hardware:  Raspberry Pi + Wearable Camera
 
 ---
 
-### 📱 PTJP — Part-Time Job Platform *(Most Effort-Intensive)*
+### 📱 PTJP — Part-Time Job Platform *(Standalone, Most Effort-Intensive)*
 
 ```
 Job Lifecycle State Machine:
@@ -198,7 +209,7 @@ Target: Production Android [DEPLOYED]
 
 ---
 
-### 🖼️ Image Caption Generator
+### 🖼️ Image Caption Generator *(Standalone)*
 
 ```
   Image Input --> ResNet-50 (Encoder) --> LSTM (Decoder) --> Caption
@@ -264,28 +275,6 @@ Target: Production Android [DEPLOYED]
 
 ---
 
-## ⚙️ How I Work
-
-```
-Weekdays:  Plan architecture in physical notebook (versioned)
-           |  +-----------------------------------+
-           |  |  * System design & data flow      |
-           |  |  * Module boundaries & interfaces |
-           |  |  * API contracts                  |
-           |  +-----------------------------------+
-           |
-4-5 AM:    Deep work window -- daily, before the world wakes up
-           |
-Weekends:  Execute
-           |  +-----------------------------------+
-           |  |  * Build from architecture notes  |
-           |  |  * Backend-first, always          |
-           |  |  * Ship working, testable systems |
-           |  +-----------------------------------+
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -304,7 +293,7 @@ Weekends:  Execute
 
 - 🔨 Building **AI Defender** Module 2 (static scanner) & Module 3 (runtime monitor)
 - 🔬 Researching on-device LLM distillation for **Darshan-3** edge deployment
-- 🚀 Expanding **PAT AI** multi-AI workflow systems
+- 🚀 Expanding **PAT AI** ecosystem — PAT_7 core platform
 - 💼 Interning at **SPK-MAK Technologies** as Web Developer
 - 📖 MCA Year 1 @ **Birla Global University** · GPA: 8.18
 
