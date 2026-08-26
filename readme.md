@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:00D4FF&height=200&section=header&text=Aryan%20Chand&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend-First%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+PAT_7+%E2%80%94+a+leader-orchestrator+agent+runtime;Shipped+a+delivery+dispatch+engine+at+94%25%2B+accuracy;Not+everyone+has+a+GPU.+Building+AI+that+doesn't+care." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=820&height=40&lines=Building+PAT_7+%E2%80%94+leader-orchestrator+agent+runtime;Shipped+a+dispatch+engine+at+94%25%2B+routing+accuracy;Not+everyone+has+a+GPU.+Building+AI+that+doesn't+care." alt="Typing SVG" style="max-width:100%;height:auto;" />
 </a>
 
 <br/>
